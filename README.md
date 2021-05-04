@@ -40,7 +40,7 @@ VRChat (VRChat inc.) // Not tested because I don't own any VR devices. But I gav
 
 # About support
 Due to the global outbreak of coronavirus, I had to give up one of my GPUs due to financial problems. Therefore, unless I get a pair of GPUs of the same type, I will not be able to test or support you. Therefore, I would be happy if you could improve this profile.  
-I will try to answer your problems and questions as best I can, but will not be quick to respond. I have a lot of work to do, and I rarely have access to a PC. But I will try to help as much as I can.
+I will try to answer your problems and questions as best I can, but will not be quick to respond. I have a lot of work to do, and I rarely have access to a PC. But I will try to help you as much as I can.
 
 # Special thanks
 Orbmu2k -- Thanks to you, I was able to create this profile. Thank you very much.
