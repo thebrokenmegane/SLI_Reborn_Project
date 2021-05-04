@@ -12,7 +12,7 @@ Using SLI with high performance GPUs can cause fires and damage due to heat, and
 
 
 # Supported game titles
-Anthem (Electronic Arts)
+Anthem (Electronic Arts)  
 Assetto Corsa Competizione (Kunos Simulazioni)  // Compatible with SLI but no performance gain.
 Code Vein (Bandai Namco)  // Compatible with SLI but no performance gain.
 Facerig (Holotech Studios)
